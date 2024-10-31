@@ -1,0 +1,158 @@
+body{
+    color:white;
+    background:purple;
+    margin: 0px;
+    font-family: "Itim", cursive;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom:solid 2px violet;
+    padding: 20px;
+    font-size: 25px;
+    color: violet;
+}
+.chamada{
+    background: rgb(204, 128, 204);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+   margin-right:5% ; 
+
+}
+h1{
+    font-size: 45px;
+}
+p{
+    font-size:24px ;
+}
+img{
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px;
+  }
+  .categoria-videos img{
+    opacity: 0.5;
+  }
+  .categoria-videos img:hover{
+    opacity: 1.0;
+    border: 5px solid white;
+  }
+  .categoria h2{
+    color: violet;
+  }
+
+  .categoria-vida {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px;
+  }
+  .categoria-vida img{
+    opacity: 0.5;
+  }
+  .categoria-vida img:hover{
+    opacity: 1.0;
+    border: 5px solid white;
+  }
+  .categoria h2{
+    color: violet;
+  }
+  .categoria-oamormoraaolado {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px;
+  }
+  .categoria-oamormoraaolado img{
+    opacity: 0.5 ;
+  }
+
+
+  .categoria-oamormoraaolado img:hover{
+    opacity: 1.0;
+    border: 5px solid white;
+  }
+  .categoria h2{
+    color: violet;
+  }
+  .categoria-ganhosdoamor {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px;
+  }
+  .categoria-ganhosdoamor img{
+    opacity: 0.5 ;
+  }
+  .categoria-ganhosdoamor img:hover{
+    opacity: 1.0;
+    border: 5px solid white;
+  }
+  .categoria h2{
+    color: violet;
+  }
+  .categoria-indicação {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px;
+  }
+  .categoria-indicação  img{
+    opacity: 0.5 ;
+  }
+  .categoria-indicação img:hover{
+    opacity: 1.0;
+    border: 5px solid white;
+  }
+  .categoria h2{
+    color: violet;
+  }
+
+  .categoria-lançamentos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px;
+  }
+  .categoria-lançamentos img{
+    opacity: 0.5 ;
+  }
+  .categoria-lançamentos img:hover{
+    opacity: 1.0;
+    border: 5px solid white;
+  }
+  .categoria h2{
+    color: violet;
+  }
